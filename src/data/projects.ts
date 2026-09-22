@@ -18,7 +18,7 @@ export const projects: Project[] = [
       'A multi-tenant auth/RBAC foundation: JWT auth, server-enforced role-based access control, and async invite processing with Celery/Redis. Try it live as any of four roles.',
     tech: ['Django REST Framework', 'JWT', 'PostgreSQL', 'Celery/Redis', 'Vue 3', 'Tailwind'],
     liveUrl: null,
-    repoUrl: null,
+    repoUrl: 'https://github.com/shivshaktisahoo/saas-starter-kit',
     status: 'in-development',
     healthCheck: true,
   },
